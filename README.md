@@ -41,4 +41,4 @@ This tool automatically scans and claims available 3-letter usernames on GitHub.
 ---
 Using automated scripts to change usernames may violate GitHub's Terms of Service. Use at your own risk. / Kullanıcı adı değiştirmek için otomatik script kullanmak GitHub hizmet şartlarına aykırı olabilir. Sorumluluk kullanıcıya aittir.
 
-**Developed by Kuzikeri**
+**Developed by Kuzey**
