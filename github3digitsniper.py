@@ -4,7 +4,7 @@ import random
 import string
 
 # --- KUZEY 2.0 SETTINGS ---
-GITHUB_TOKEN = "BURAYA_TOKENINI_YAZ" 
+GITHUB_TOKEN = "TEXT_TO_YOUR_TOKEN" 
 CHECK_SPEED = 2.0 
 
 headers = {
@@ -37,4 +37,5 @@ while True:
             print(f"🎯 SUCCESS! Your new username is: {target}")
             break
             
+
     time.sleep(CHECK_SPEED)
